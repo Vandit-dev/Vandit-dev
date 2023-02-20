@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  
 
 - 🔭 I’m currently working on **Cloud Challanges**
-- 🌱 I’m currently learning **Azure ☁️ advance topics **
+- 🌱 I’m currently learning **Azure ☁️ advance topics**
 
 
 
