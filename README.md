@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">I'm Vandit Pandya</h1>
-<h3 align="center">I am cse pre-final year student apart from this I am Az-Dev Lead  & Docker Community Event Organizer 🙌🏼.Learning and exploring new technologies as well as community 😀.</h3>
+<h3 align="center">I am cse pre-final year student apart from this I am Az-Dev Lead, Microsoft Learn Student Ambassador, and Docker Community Event Organizer 🙌🏼. Learning and exploring new technologies as well as community 😀.</h3>
 
-■  I am have a good knowledge of Azure Cloud technology , Java and currently learning Web-Development and some advnce topic of Azure.
+■  I have a good knowledge of Azure Cloud technology,Java and currently learning Web-Development and some advanced topic of Azure.
 
-■ I love sharing my knowledge in community and helping people to "Getting start their journey of cloud computing!!"
+■ I love to share my knowledge in the community and help people to "Get started with journey of cloud computing!!"
 
-  - I am get involved in community form more than last 2+ years.
-    - For community I frequently organizing Azure DevDay an initiative of Reskilll and Azure Developer Community, supported by Microsoft Azure.
+  - I am getting involved in the community form for more than the last 2+ years.
+    - For the community, I frequently organize Azure DevDay an initiative of Reskilll and Azure Developer Community, supported by Microsoft Azure.
 
 ■ I am Hackathon and Open Source Enthusiast.
  
