@@ -18,16 +18,28 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">I'm Vandit Pandya</h1>
-<h3 align="center">I am cse pre-final year student apart from this I am Az-Dev Lead, Microsoft Learn Student Ambassador, and Docker Community Event Organizer 🙌🏼. Learning and exploring new technologies as well as community 😀.</h3>
+<!--<h3 align="center">I am cse pre-final year student apart from this I am Az-Dev Lead, Microsoft Learn Student Ambassador, and Docker Community Event Organizer 🙌🏼. Learning and exploring new technologies as well as community 😀.</h3>-->
 
-■  I have a good knowledge of Azure Cloud technology,Java and currently learning Web-Development and some advanced topic of Azure.
+<!-- Hello Visitors🤠 , --->
+
+Vandit Pandya is a student pursuing a B.E. in Computer Science and Engineering from Babaria Institute of Technology. 
+
+He is an active member of several communities and is an Azure Developer lead & CNCF Vadodara organizer for the Vadodara region and a Docker Community Event Organizer. 
+
+He is passionate about upskilling students and enhancing technology learning and skilling for future developers. 
+
+He has organized several Azure Dev-Days in the Gujarat region and has been invited as an expert speaker for more than 20 sessions.
+
+ Vandit Pandya is an active supporter of Microsoft Azure initiatives in his local region.
+
+<!---■  I have a good knowledge of Azure Cloud technology, Java and currently learning Web-Development and some advanced topic of Azure.
 
 ■ I love to share my knowledge in the community and help people to "Get started with journey of cloud computing!!"
 
   - I am getting involved in the community form for more than the last 2+ years.
-    - For the community, I frequently organize Azure DevDay an initiative of Reskilll and Azure Developer Community, supported by Microsoft Azure.
+    - For the community, I frequently organize Azure DevDay an initiative of Reskilll and Azure Developer Community, supported by Microsoft Azure.--->
 
-■ I am Hackathon and Open Source Enthusiast.
+■ Vandit Pandya is Hackathon and Open Source Enthusiast.
  
 
 - 🔭 I’m currently working on **Cloud Challanges**
