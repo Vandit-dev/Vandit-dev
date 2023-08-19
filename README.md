@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Vandit Pandya is a student pursuing a B.E. in Computer Science and Engineering from Babaria Institute of Technology. 
 
-He is an active member of several communities and is an Azure Developer lead & CNCF Vadodara organizer for the Vadodara region and a Docker Community Event Organizer. 
+He is an active member of several communities and is an Azure Developer lead & CNCF Organizer for the Vadodara region and a Docker Community Event Organizer. 
 
 He is passionate about upskilling students and enhancing technology learning and skilling for future developers. 
 
